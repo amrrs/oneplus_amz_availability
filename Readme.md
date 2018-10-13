@@ -1,4 +1,4 @@
-# Oneplus 6 Availablity Checker on Amazon 
+# Oneplus 6 Availablity Checker on Amazon.in
 
 ### - written in R
 
@@ -9,3 +9,5 @@
 
 
 Note: Frequent/Automated Web Scraping violates ToS many websites as it causes unexpected Server Load, So please use this code diligently and avoid scheduled in short intervals! 
+
+Note #2: I am not going to maintain this, so please use this just for educational purposes.
